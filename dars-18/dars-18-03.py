@@ -7,7 +7,7 @@ mahsulotlar = {
     'osh': 35000,
     'shashlik': 15000,
     'manti': 6000,
-    'somsa': 8000,
+    'somsa': 8000,N
     'lagmon': 28000,
     'shurva': 25000,
     'norin': 40000,
